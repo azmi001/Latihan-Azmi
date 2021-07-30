@@ -1,2 +1,4 @@
 Latihan 1 test
 - belajar memakai Github
+- main
+- makan
